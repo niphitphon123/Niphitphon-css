@@ -1,0 +1,13 @@
+body {
+    background-color: #ecab87;
+}
+
+h1 {
+    color: rgb(243, 238, 214);
+    text-align: center;
+}
+
+a {
+    color: rgb(136, 6, 34);
+}
+body {outline-style: double;}
